@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+html {height: 100%; margin: 0;}
+title {text-align: center; font-size: !important;}
+body {height: 100%; margin: 0;}
+header {text-align: center; height: 15%; background-color: royalblue; font-family : 'Shizuru', cursive;}
+nav {columns: 3; width: 3;}
+img {display: block; margin: auto; height: 150px; float: left; border: 10px inset #DB0000;}
+h3 {text-align: center; border-width: 2px; border-color: black; border-style: double;}
+h4 {text-align: center;}
+h5 {text-align: right;}
